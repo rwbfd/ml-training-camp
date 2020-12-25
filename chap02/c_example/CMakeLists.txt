@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.17)
+project(c_example)
+find_package(OpenMP REQUIRED)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_FLAGS "-Wall -O2 -g" )
+add_executable(c_example main.cpp)
+target_link_libraries(c_example OpenMP::OpenMP_CXX)

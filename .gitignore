@@ -5,3 +5,5 @@ __pycache__
 prep/
 build/
 .ipynb_checkpoints/
+cmake-build-debug/
+build/
