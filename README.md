@@ -10,7 +10,7 @@ The course is scheduled every week, and the whole series will take about a year 
 ### Course Language
 Unfortunately, the original target audience is Chinese; therefore a Chinese version is first derived. An English version of the lecture notes will soon follow. 
 
-## Course Outline (Plannedl; continuously updated)
+## Course Outline (Planned; continuously updated)
 ### Chapter 01: Python 
 Colab and Jupyter Notebook. 
 How to set up a deep learning working environment.
