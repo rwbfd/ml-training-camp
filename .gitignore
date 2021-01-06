@@ -7,3 +7,6 @@ build/
 .ipynb_checkpoints/
 cmake-build-debug/
 build/
+
+# No Mac metadata
+*.DS_Store
