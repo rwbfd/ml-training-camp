@@ -10,7 +10,7 @@ The course is scheduled every week, and the whole series will take about a year 
 ### Course Language
 Unfortunately, the original target audience is Chinese; therefore a Chinese version is first derived. An English version of the lecture notes will soon follow. 
 
-## Course Outline (Plannedl; continuously updated)
+## Course Outline (Planned; continuously updated)
 ### Chapter 01: Python 
 Colab and Jupyter Notebook. 
 How to set up a deep learning working environment.
@@ -72,4 +72,4 @@ If you are an education institute, such as a university. Or you are using it as 
 However, if you are a profitable organization that steals others' work and claim as their own to make money, we will file a lawsuit. 
 
 ### Can I get the videos?
-I would like to. However, this is a paid course in GeekBang. The fact that they would agree to share these materials are already very generous. Also, I do this for a very modest sum of compensation. Therefore, if you like the content and want me to contribute now, the best thing is to buy their course to not have to work till 2 am to pay for the house loan. 
+I would like to. However, this is a paid course in GeekBang. The fact that they would agree to share these materials are already very generous. Also, I do this for a very modest sum of compensation. Therefore, if you like the content and want me to contribute now, the best thing is to buy their course so I don't have to work till 2 am to pay for the house loan. 
